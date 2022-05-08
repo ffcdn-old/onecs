@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https:/blog.echs.top/$1"}
+      {"src": "/(.*)","dest": "https://haoduck.com/$1"}
   ]
 }
