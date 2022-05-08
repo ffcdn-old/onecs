@@ -1,6 +1,7 @@
 {
-  "version": 2,
-  "routes": [
-      {"src": "/(.*)","dest": "https://haoduck.com/$1"}
-  ]
-}
+    "name": "onecs",
+    "version": 2,
+    "routes": [
+      {"src": "/(.*)","dest": "http:/blog.zixiwu.cn/$1"}
+    ]
+  }
